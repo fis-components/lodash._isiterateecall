@@ -1,0 +1,10 @@
+{
+    "name": "lodash._isiterateecall",
+    "description": "The modern build of lodash’s internal `isIterateeCall` as a module.",
+    "repos": "https://github.com/lodash/lodash",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "main": "index.js",
+    "version": "3.0.0"
+}
